@@ -5,4 +5,5 @@ numpy
 joblib 
 pyyaml 
 matplotlib 
-dvc 
+dvc
+prefect
